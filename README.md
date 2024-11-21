@@ -1,6 +1,6 @@
 # Demo-Project
 
-**This is a demo project for a computer science course at the technical university of applied sciences called "Programmieren mit Datenbanken".**
+**This is a demo project for a computer science course at the Technical University of Applied Sciences Augsburg called "Programmieren mit Datenbanken".**
 
 Some people had some issues generating the entities with the IntelliJ. 
 This project should have that resolved. The entities are already present. 
